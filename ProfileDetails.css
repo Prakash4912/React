@@ -1,0 +1,20 @@
+.profile-details-container {
+    flex: 1;
+    min-width: 300px;
+    margin-left: 20px;
+  }
+  
+  .profile-details {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  .profile-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .profile-details p {
+    margin-bottom: 5px;
+  }
+  

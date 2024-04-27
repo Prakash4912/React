@@ -1,0 +1,15 @@
+.Map-container {
+    flex: 1;
+    min-width: 300px;
+    margin-left: 20px;
+  }
+  
+  .Map {
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
